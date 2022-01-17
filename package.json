@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Adamsalvius/falsa/issues"
   },
-  "homepage": "https://github.com/Adamsalvius/falsa#readme"
+  "homepage": "https://github.com/Adamsalvius/falsa#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
 }
